@@ -61,7 +61,6 @@ I'm excited about the potential to make this project even better, and here are s
 - **Improve UI/UX:** I plan to enhance the visual design using modern CSS frameworks like Bootstrap or adding more animations to make the game more engaging.
 - **Make it More Responsive:** Ensuring the game looks great on mobile devices and tablets is definitely on my list.
 - **Introduce Different Game Modes:** Options like timed challenges, practice mode, or even multiplayer could make the game more versatile.
-- **Refactor the Code:** Modularizing the JavaScript and PHP code will help me keep it clean and easier to maintain or expand.
 - **Allow Saving Progress:** Giving players the ability to save their game and pick up where they left off could be a great addition.
 
 These are some ideas I’m considering to improve the project. I believe they can make the experience more fun, engaging, and scalable. Feel free to suggest your own ideas or improvements!
