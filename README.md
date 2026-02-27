@@ -60,10 +60,7 @@ I'm excited about the potential to make this project even better, and here are s
 - **Implement User Accounts:** Giving players the option to create accounts so they can track their stats and progress over time sounds like a fun feature.
 - **Improve UI/UX:** I plan to enhance the visual design using modern CSS frameworks like Bootstrap or adding more animations to make the game more engaging.
 - **Make it More Responsive:** Ensuring the game looks great on mobile devices and tablets is definitely on my list.
-- **Add Sounds:** Incorporating background music and sound effects for correct and incorrect answers would add a lot of immersion.
-- **Create a Leaderboard System:** I’d like to store top scores with player names, dates, and times to encourage friendly competition.
 - **Introduce Different Game Modes:** Options like timed challenges, practice mode, or even multiplayer could make the game more versatile.
-- **Improve Accessibility:** Making the game more accessible for players with disabilities is important to me.
 - **Refactor the Code:** Modularizing the JavaScript and PHP code will help me keep it clean and easier to maintain or expand.
 - **Allow Saving Progress:** Giving players the ability to save their game and pick up where they left off could be a great addition.
 
